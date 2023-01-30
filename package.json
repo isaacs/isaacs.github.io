@@ -1,0 +1,20 @@
+{
+  "prettier": {
+    "semi": false,
+    "printWidth": 75,
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "bracketSameLine": true,
+    "arrowParens": "avoid",
+    "endOfLine": "lf"
+  },
+  "scripts": {
+    "prepare": "make"
+  },
+  "devDependencies": {
+    "marked": "^4.2.12",
+    "prettier": "^2.8.3"
+  }
+}
