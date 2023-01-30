@@ -12,7 +12,8 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/nave https://isaacs.github.io/nave Nave test
   coverage]
 * [gh isaacs/node-lru-cache]
-* [gh isaacs/mkdirp]
+* [gh isaacs/node-mkdirp https://isaacs.github.io/node-mkdirp
+  mkdirp]
 * [gh isaacs/rimraf]
 * [gh isaacs/function-loop]
 * [gh isaacs/pointer-set]
