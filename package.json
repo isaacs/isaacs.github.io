@@ -11,7 +11,7 @@
     "endOfLine": "lf"
   },
   "scripts": {
-    "prepare": "make"
+    "prepare": "bash make.sh"
   },
   "devDependencies": {
     "marked": "^4.2.12",
