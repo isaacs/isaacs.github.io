@@ -14,7 +14,7 @@ process.stdin.on('end', () => {
           url = `https://${user}.github.io/${proj.join('/')}`
           text = proj.join('/')
         }
-        return `[${text}](${url}) ([${repo}](https://github.com/${repo}))`
+        return `[${text.trim()}](${url}) ([${repo}](https://github.com/${repo}))`
       }
     )
   )
