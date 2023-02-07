@@ -17,11 +17,10 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/rimraf]
 * [gh isaacs/function-loop]
 * [gh isaacs/pointer-set]
-* [gh isaacs/path-walker]
+* [gh isaacs/path-scurry]
 * [gh isaacs/minimatch]
 * [gh isaacs/minipass]
 * [gh isaacs/good-dag]
-* coming soon: [gh isaacs/path-walker]
 * coming soon: [gh isaacs/glob]
 * [gh tierrun/node-sdk https://tierrun.github.io/node-sdk The
   Node SDK for Tier] (this isn't "mine", it's for work, but I
