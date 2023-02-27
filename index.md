@@ -18,6 +18,7 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/function-loop]
 * [gh isaacs/pointer-set]
 * [gh isaacs/path-scurry]
+* [gh isaacs/node-glob]
 * [gh isaacs/minimatch]
 * [gh isaacs/minipass]
 * [gh isaacs/good-dag]
