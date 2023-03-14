@@ -21,6 +21,7 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/node-glob]
 * [gh isaacs/minimatch]
 * [gh isaacs/minipass]
+* [gh isaacs/trivial-deferred]
 * [gh isaacs/good-dag]
 * coming soon: [gh isaacs/glob]
 * [gh tierrun/node-sdk https://tierrun.github.io/node-sdk The
