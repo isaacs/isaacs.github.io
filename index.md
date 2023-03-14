@@ -23,7 +23,7 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/minipass]
 * [gh isaacs/trivial-deferred]
 * [gh isaacs/good-dag]
-* coming soon: [gh isaacs/glob]
+* [gh isaacs/glob]
 * [gh tierrun/node-sdk https://tierrun.github.io/node-sdk The
   Node SDK for Tier] (this isn't "mine", it's for work, but I
   made it, so it goes here)
