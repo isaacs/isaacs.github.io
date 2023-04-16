@@ -27,6 +27,7 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/jackspeak]
 * [gh isaacs/walk-up-path]
 * [gh isaacs/node-primordials]
+* [gh tapjs/signal-exit https://tapjs.github.io/signal-exit/]
 * [gh tierrun/node-sdk https://tierrun.github.io/node-sdk The
   Node SDK for Tier] (this isn't "mine", it's for work, but I
   made it, so it goes here)
