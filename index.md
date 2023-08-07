@@ -33,6 +33,7 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/sync-content]
 * [gh tapjs/processinfo]
 * [gh tapjs/tapjs]
+* [gh isaacs/events-to-array]
 * [gh tierrun/node-sdk https://tierrun.github.io/node-sdk The
   Node SDK for Tier] (this isn't "mine", it's for work, but I
   made it, so it goes here)
