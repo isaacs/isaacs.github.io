@@ -36,6 +36,4 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/events-to-array]
 * [gh isaacs/is-actual-promise]
 * [gh isaacs/clock-mock]
-* [gh tierrun/node-sdk https://tierrun.github.io/node-sdk The
-  Node SDK for Tier] (this isn't "mine", it's for work, but I
-  made it, so it goes here)
+* [gh isaacs/tshy]
