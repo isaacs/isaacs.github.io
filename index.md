@@ -37,3 +37,4 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/is-actual-promise]
 * [gh isaacs/clock-mock]
 * [gh isaacs/tshy]
+* [gh isaacs/ansi-to-pre]
