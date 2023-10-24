@@ -39,3 +39,4 @@ Many of these are a typedoc output of the module library.
 * [gh isaacs/tshy]
 * [gh isaacs/ansi-to-pre]
 * [gh isaacs/socket-post-message]
+* [gh isaacs/sock-daemon]
