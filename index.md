@@ -42,3 +42,4 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/sock-daemon]
 - [gh isaacs/catcher https://isaacs.github.io/catcher @isaacs/catcher]
 - [gh isaacs/cached https://isaacs.github.io/cached @isaacs/cached]
+- [gh isaacs/chownr]
