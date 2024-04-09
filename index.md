@@ -9,11 +9,9 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/izs.me https://izs.me resume/homepage/etc]
 - [gh isaacs/blog.izs.me https://blog.izs.me blog]
 - [gh tapjs/node-tap https://node-tap.org Node Tap website]
-- [gh isaacs/nave https://isaacs.github.io/nave Nave test
-  coverage]
+- [gh isaacs/nave https://isaacs.github.io/nave Nave test coverage]
 - [gh isaacs/node-lru-cache]
-- [gh isaacs/node-mkdirp https://isaacs.github.io/node-mkdirp
-  mkdirp]
+- [gh isaacs/node-mkdirp https://isaacs.github.io/node-mkdirp mkdirp]
 - [gh isaacs/rimraf]
 - [gh isaacs/function-loop]
 - [gh isaacs/pointer-set]
@@ -43,3 +41,5 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/catcher https://isaacs.github.io/catcher @isaacs/catcher]
 - [gh isaacs/cached https://isaacs.github.io/cached @isaacs/cached]
 - [gh isaacs/chownr]
+- [gh isaacs/yallist]
+- [gh isaacs/node-tar https://isaacs.github.io/node-tar tar]
