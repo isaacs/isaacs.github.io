@@ -43,3 +43,4 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/chownr]
 - [gh isaacs/yallist]
 - [gh isaacs/node-tar https://isaacs.github.io/node-tar tar]
+- [gh isaacs/graph-run]
