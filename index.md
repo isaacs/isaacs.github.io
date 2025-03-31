@@ -19,6 +19,7 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/node-glob]
 - [gh isaacs/minimatch]
 - [gh isaacs/minipass]
+- [gh isaacs/minizlib]
 - [gh isaacs/trivial-deferred]
 - [gh isaacs/good-dag]
 - [gh isaacs/node-glob]
