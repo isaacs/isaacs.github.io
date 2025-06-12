@@ -46,3 +46,4 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/node-tar https://isaacs.github.io/node-tar tar]
 - [gh isaacs/graph-run]
 - [gh isaacs/balanced-match https://isaacs.github.io/balanced-match @isaacs/balanced-match]
+- [gh isaacs/brace-expansion https://isaacs.github.io/brace-expansion @isaacs/brace-expansion]
