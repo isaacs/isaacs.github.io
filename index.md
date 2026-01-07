@@ -6,7 +6,7 @@ particular order just so that I have them somewhere.
 
 Many of these are a typedoc output of the module library.
 
-[izs.me](https://izs.me) - [blog](https://blog.izs.me) - [sponsor](https://github.com/sponsors/isaacs)
+[gh:isaacs](https://github.com/isaacs) - [izs.me](https://izs.me) - [blog](https://blog.izs.me) - [sponsor](https://github.com/sponsors/isaacs)
 
 - [gh isaacs/izs.me https://izs.me resume/homepage/etc]
 - [gh isaacs/blog.izs.me https://blog.izs.me blog]
