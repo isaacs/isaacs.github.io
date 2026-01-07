@@ -22,6 +22,7 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/brace-expansion https://isaacs.github.io/brace-expansion @isaacs/brace-expansion]
 - [gh isaacs/cached https://isaacs.github.io/cached @isaacs/cached]
 - [gh isaacs/catcher https://isaacs.github.io/catcher @isaacs/catcher]
+- [gh isaacs/char-spinner]
 - [gh isaacs/chmodr]
 - [gh isaacs/chownr]
 - [gh isaacs/cli-env-config]
