@@ -11,7 +11,7 @@ Many of these are a typedoc output of the module library.
 
 - [gh isaacs/izs.me https://izs.me resume/homepage/etc]
 - [gh isaacs/blog.izs.me https://blog.izs.me blog]
-- [gh tapjs/tapjs/src/docs https://node-tap.org Node Tap website]
+- [gh tapjs/tapjs https://node-tap.org Node Tap website]
 - [gh tapjs/tapjs]
 - [gh tapjs/foreground-child]
 - [gh tapjs/processinfo]
