@@ -54,7 +54,7 @@ Many of these are a typedoc output of the module library.
 - [gh isaacs/ttlcache @isaacs/ttlcache]
 - [gh isaacs/walk-up-path]
 - [gh isaacs/yallist]
-- [gh package-json-from-dist]
+- [gh isaacs/package-json-from-dist]
 - [gh tapjs/foreground-child]
 - [gh tapjs/processinfo]
 - [gh tapjs/signal-exit]
