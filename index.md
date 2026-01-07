@@ -1,8 +1,9 @@
 # Isaac's Project Pages
 
-This is a place to link to all the projects that I generate
-websites for, either on GitHub pages or elsewhere, in no
-particular order just so that I have them somewhere.
+This is a place to link to the projects that I generate websites
+for, either on GitHub pages or elsewhere, just so that I have
+them somewhere. It's a relatively small subset of all the
+projects I've worked on.
 
 Many of these are a typedoc output of the module library.
 
@@ -10,11 +11,11 @@ Many of these are a typedoc output of the module library.
 
 - [gh isaacs/izs.me https://izs.me resume/homepage/etc]
 - [gh isaacs/blog.izs.me https://blog.izs.me blog]
-- [gh tapjs/node-tap https://node-tap.org Node Tap website]
+- [gh tapjs/tapjs/src/docs https://node-tap.org Node Tap website]
+- [gh tapjs/tapjs]
 - [gh tapjs/foreground-child]
 - [gh tapjs/processinfo]
 - [gh tapjs/signal-exit]
-- [gh tapjs/tapjs]
 - [gh isaacs/nave https://isaacs.github.io/nave Nave test coverage]
 - [gh isaacs/ansi-to-pre]
 - [gh isaacs/balanced-match https://isaacs.github.io/balanced-match @isaacs/balanced-match]
